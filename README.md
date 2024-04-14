@@ -1,7 +1,7 @@
 # WineDataProject
 
 **Description:** 
-Part of my university coursework, in this small project I took a look at the field of Data Science.
+In this small project I took a look at the field of Data Science.
 
 ## Technologies Used:
 - Written in Python
